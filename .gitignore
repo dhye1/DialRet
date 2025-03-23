@@ -1,0 +1,14 @@
+__pycache__
+wandb
+*venv*/
+data/instructions/processed*
+model*/
+pretrained_model/
+# data*/
+
+*.csv
+*.json
+*.jsonl
+*.pt
+*.out
+.env
