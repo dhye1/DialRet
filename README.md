@@ -1,5 +1,4 @@
 # DialRet: Enhancing Dialogue Retention for Multi-session Conversations
-![image](https://github.com/user-attachments/assets/7a59775a-01cf-417e-bc17-ca1e3bb2ed72)
 
 
 <p align="center">
