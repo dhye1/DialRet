@@ -1,4 +1,4 @@
-# DialRet: Enhancing Dialogue Retention for Multi-session Conversations
+## DialRet: Enhancing Dialogue Retention for Multi-session Conversations
 
 
 <p align="center">
