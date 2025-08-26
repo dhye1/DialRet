@@ -1,4 +1,4 @@
-## DialRet: Enhancing Dialogue Retention for Multi-session Conversations
+## DialRet: Enhancing Dialogue Retention for Multi-session Conversations (PAKDD 2025)
 
 
 <p align="center">
